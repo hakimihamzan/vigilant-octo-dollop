@@ -1,1 +1,1 @@
-Full stack open COURSE
+Full stack open Course
